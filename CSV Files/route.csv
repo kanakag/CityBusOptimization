@@ -1,0 +1,21 @@
+route_id,route_short_name,route_description,source_id,destination_id
+10238,6A,"6A Fourth St, operates Monday - Sunday",BUS269,BUS694NE
+10239,15,"15 Tower Acres, operates Monday - Friday only during Purdues Fall & Spring Semesters on days when classes are held",BUS755,BUS160
+10241,4A,"4A Tippecanoe Mall, operates Monday - Sunday",BUS889,BUS699SW
+10242,6B,"6B South 9th St, operates Monday - Saturday",TEMP17,BUS185
+10243,23,"23 The Connector Between Lafayette and Purdue/West Lafayette, operates Monday-Friday, and Saturday During the Purdue Fall and Spring Semesters",BUS572,BUS419
+10244,24,"24 Redpoint",BUS146,BUS219E
+10245,9,"9 Park East - Operates Monday - Friday",BUS902,BUS214
+10247,35,"35 Lindberg Express, operates Monday - Saturday during Purdues Fall & Spring Semesters on days when classes are held",BUS415,BUS221E
+10249,28,"28 Gold Loop, operates Monday - Friday only during Purdues Fall & Spring Semesters on days when classes are held",BUS417SE,BUS221W
+10251,4B,"4B Purdue West, operates Monday - Sunday",BUS425S,BUS696NE
+10253,1A,"1A Market Square, operates Monday - Sunday",BUS466W,BUS326
+10254,1B,"1B Salisbury, operates Monday - Sunday",BUS304,TEMP06
+10255,3,"3 Lafayette Square, operates Monday - Sunday",BUS887,BUS696SW
+10256,21A,"Route 21A Lark & Alight, operates Monday - Saturday, with limited service during Purdues summer break.",BUS754,BUS219W
+10257,17,"17 Ross Ade, operates Monday - Friday during Purdues Fall & Spring Semesters on days when classes are held",BUS289,BUS002
+10258,2B,"2B Union St, operates Monday - Saturday",BUS134,BUS695SW
+10260,7,"7 South Street, operates Monday - Sunday",BUS173,TEMP584SW
+10262,10,"10 Northwestern, operates Monday - Saturday",BUS175,BUS312
+10263,9,"9 Park East - Operates Monday - Friday",BUS902,BUS214
+15201,8,,BUS176,BUS701
